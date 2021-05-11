@@ -1,4 +1,4 @@
-<h1><u>codewars-kata</u></h1>
-<a href="www.codewars.com">ww.codewars.com</a><br>
-Clan
+<h2><u>codewars-kata</u></h2>
+<a href="www.codewars.com">www.codewars.com</a><br>
+<h2>Clan</h2>
 # #100Devs - leonnoel.com/twitch
