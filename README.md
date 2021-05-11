@@ -1,1 +1,1 @@
-# codewars-kata
+<h1>codewars-kata</h1>
